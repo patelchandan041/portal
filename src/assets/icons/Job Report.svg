@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="Job_Report" data-name="Job Report" transform="translate(-100 -236)">
+    <g id="Rectangle_325" data-name="Rectangle 325" transform="translate(100 236)" fill="none" stroke="#2d94c9" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+      <rect width="99" height="99" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="97" height="97" rx="9" fill="none"/>
+    </g>
+    <g id="briefcase" transform="translate(125 262.75)">
+      <path id="Path_191" data-name="Path 191" d="M0,33.375a4.687,4.687,0,0,0,4.688,4.687H45.313A4.688,4.688,0,0,0,50,33.375V14.625H46.875v18.75a1.563,1.563,0,0,1-1.562,1.563H4.688a1.562,1.562,0,0,1-1.562-1.562V14.625H0Z" transform="translate(0 4.813)" fill="#2d94c9" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Path_192" data-name="Path 192" d="M0,13.188A4.687,4.687,0,0,1,4.688,8.5H45.313A4.688,4.688,0,0,1,50,13.188v7.45L26.207,26.981a4.688,4.688,0,0,1-2.413,0L0,20.638Zm4.688-1.562a1.563,1.563,0,0,0-1.562,1.563v5.05L24.6,23.962a1.562,1.562,0,0,0,.807,0l21.471-5.725v-5.05a1.563,1.563,0,0,0-1.562-1.562ZM15.625,6.938A4.688,4.688,0,0,1,20.313,2.25h9.375a4.688,4.688,0,0,1,4.688,4.688V8.5H31.25V6.938a1.563,1.563,0,0,0-1.562-1.562H20.313A1.562,1.562,0,0,0,18.75,6.938V8.5H15.625Z" transform="translate(0 0)" fill="#2d94c9" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

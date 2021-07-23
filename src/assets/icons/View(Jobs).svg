@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="View_Jobs_" data-name="View(Jobs)" transform="translate(-1760 -214)">
+    <g id="Rectangle_291" data-name="Rectangle 291" transform="translate(1760 214)" fill="none" stroke="#c5c6c6" stroke-width="1">
+      <rect width="60" height="60" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="59" height="59" rx="9.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-eye" data-name="Icon feather-eye" transform="translate(1771.5 226)">
+      <path id="Path_178" data-name="Path 178" d="M1.5,18.5S7.75,6,18.687,6,35.875,18.5,35.875,18.5,29.625,31,18.687,31,1.5,18.5,1.5,18.5Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_179" data-name="Path 179" d="M22.875,18.187A4.687,4.687,0,1,1,18.187,13.5,4.688,4.688,0,0,1,22.875,18.187Z" transform="translate(0.5 0.313)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

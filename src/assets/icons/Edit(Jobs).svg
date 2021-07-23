@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Edit_Jobs_" data-name="Edit(Jobs)" transform="translate(-1685 -214)">
+    <g id="Rectangle_290" data-name="Rectangle 290" transform="translate(1685 214)" fill="none" stroke="#c5c6c6" stroke-width="1">
+      <rect width="60" height="60" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="59" height="59" rx="9.5" fill="none"/>
+    </g>
+    <path id="Icon_feather-edit-2" data-name="Icon feather-edit-2" d="M25.695,4.511a4.279,4.279,0,1,1,6.052,6.052L11.321,30.988,3,33.257l2.269-8.321Z" transform="translate(1697.5 226.243)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

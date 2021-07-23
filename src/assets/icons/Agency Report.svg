@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="Agency_Report" data-name="Agency Report" transform="translate(-100 -1314)">
+    <g id="Rectangle_370" data-name="Rectangle 370" transform="translate(100 1314)" fill="none" stroke="#2d94c9" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+      <rect width="99" height="99" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="97" height="97" rx="9" fill="none"/>
+    </g>
+    <g id="bx-building" transform="translate(124 1336)">
+      <path id="Path_223" data-name="Path 223" d="M41,3H11A5,5,0,0,0,6,8V50.5A2.5,2.5,0,0,0,8.5,53h35A2.5,2.5,0,0,0,46,50.5V8A5,5,0,0,0,41,3Zm0,45H11V8H41Z" fill="#2d94c9" stroke="#fefefe" stroke-width="3"/>
+      <path id="Path_224" data-name="Path 224" d="M12,9h7.5v5H12ZM24.5,9H32v5H24.5ZM12,19h7.5v5H12Zm12.5.077H32V24H24.5ZM12,29h7.5v5H12Zm12.5,0H32v5H24.5Z" transform="translate(4 4)" fill="#2d94c9" stroke="#fefefe" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

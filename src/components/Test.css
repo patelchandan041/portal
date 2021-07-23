@@ -1,0 +1,75 @@
+.modal-head{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    font-weight: 600;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+.modalnav{
+    display: flex;
+    flex-direction: row;
+    border: none;
+}
+.modalnav  li{
+    margin-left: 30px;
+   list-style: none;
+   text-decoration: none;
+}
+.active-class{
+    color: #267eaa;
+   
+}
+
+.modal-container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    border: 1px solid lightgrey;
+    
+}
+.modal-conthead{
+    margin: 10px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.application-label{
+    margin: 0px 20px;
+}
+.application-inputs{
+    margin: 0px 20px;
+}
+.modal-conthead-btn{
+    padding: 2px 10px;
+    color: #267eaa;
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 5px;
+}
+.modal-time{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.modal-timetitle{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+.modal-timetitle > p{
+    margin-right:420px ;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+   margin-left: 850px;
+}
+.buttons > button{
+    width: 100px;
+}
+

@@ -1,0 +1,22 @@
+.event{
+    margin: 20px;
+    border: 1px solid gray;
+}
+.event-top{
+    padding: 20px 20px;
+    border-bottom: 1px solid gray;
+}
+.event-topbtn{
+    margin-left: 820px;
+    border: none;
+    color: #267eaa;
+    background-color: #a9ddf7;
+    padding: 10px 5px;
+    border-radius: 5pxd;
+}
+.event-bottom{
+    padding: 20px 20px;
+}
+.event-bottom h3{
+    margin: 0px 300px;
+}

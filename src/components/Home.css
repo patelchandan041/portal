@@ -1,0 +1,83 @@
+.home{
+   
+}
+.home-container{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+.modal{
+    margin:130px 450px ;
+    max-width: 300px;
+}
+.left{
+    background-color: white;
+  width: 220px;
+}
+.left-box{
+       display: flex;
+       flex-direction: row;
+       justify-content: space-between;
+       border-bottom: 1px solid lightgrey;
+}
+.left-stagebtn{
+    border: none;
+    color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+    padding: 6px 15px;
+    background-color: #2D94C9;
+    border-radius: 5px;
+    
+}
+.mid{
+background-color: white;
+   overflow-y: scroll;
+   width: 660px;
+   max-height: 430px;
+  
+}
+.mid-box{
+  cursor: pointer;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgrey;
+  align-items: center;
+}
+.mid-boxleft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mid-boxleftline{
+     color: grey;
+     display: flex;
+    flex-direction: row;
+}
+.mid-boxright{
+ margin-right: 20px;
+}
+.mid-boxrightitem{
+    height: 40px;
+    margin-right: 20px;
+}
+
+.right{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-y: scroll;
+    width: 250px;
+    max-height: 350px;
+}
+.rightboxes{
+    margin-left: 10px;
+}
+.rightboxes > label{
+    margin-left: 20px;
+}

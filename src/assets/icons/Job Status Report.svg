@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="Job_Status_Report" data-name="Job Status Report" transform="translate(-100 -2011)">
+    <g id="Rectangle_373" data-name="Rectangle 373" transform="translate(100 2011)" fill="none" stroke="#2d94c9" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+      <rect width="99" height="99" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="97" height="97" rx="9" fill="none"/>
+    </g>
+    <g id="stats-chart-outline" transform="translate(127.5 2037.75)">
+      <path id="Path_247" data-name="Path 247" d="M5.224,22.5H8.117a.724.724,0,0,1,.723.724V36.242a.724.724,0,0,1-.723.723H5.224a.724.724,0,0,1-.724-.723V23.224A.724.724,0,0,1,5.224,22.5Z" transform="translate(0 5.786)" fill="rgba(0,0,0,0)" stroke="#2d94c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_248" data-name="Path 248" d="M20.974,15.75h2.893a.724.724,0,0,1,.723.724v21.7a.724.724,0,0,1-.723.723H20.974a.724.724,0,0,1-.724-.723v-21.7A.724.724,0,0,1,20.974,15.75Z" transform="translate(4.5 3.857)" fill="rgba(0,0,0,0)" stroke="#2d94c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_249" data-name="Path 249" d="M28.849,7.875h2.893a.724.724,0,0,1,.723.724V40.42a.724.724,0,0,1-.723.723H28.849a.724.724,0,0,1-.724-.723V8.6a.724.724,0,0,1,.724-.724Z" transform="translate(6.75 1.607)" fill="rgba(0,0,0,0)" stroke="#2d94c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_250" data-name="Path 250" d="M13.1,2.25h2.893a.724.724,0,0,1,.723.724V42.027a.724.724,0,0,1-.723.723H13.1a.724.724,0,0,1-.724-.723V2.974A.724.724,0,0,1,13.1,2.25Z" transform="translate(2.25)" fill="rgba(0,0,0,0)" stroke="#2d94c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

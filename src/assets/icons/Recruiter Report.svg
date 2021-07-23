@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="Recruiter_Report" data-name="Recruiter Report" transform="translate(-1020 -1282)">
+    <g id="Rectangle_370" data-name="Rectangle 370" transform="translate(1020 1282)" fill="none" stroke="#2d94c9" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+      <rect width="99" height="99" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="97" height="97" rx="9" fill="none"/>
+    </g>
+    <g id="user-multiple" transform="translate(1047.75 1309.75)">
+      <path id="Path_227" data-name="Path 227" d="M35.875,37.393H33.018V30.25a7.152,7.152,0,0,0-7.143-7.143V20.25a10.011,10.011,0,0,1,10,10Z" transform="translate(6.375 4.857)" fill="#2d94c9" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+      <path id="Path_228" data-name="Path 228" d="M30.821,37.393H27.964V30.25a7.152,7.152,0,0,0-7.143-7.143H12.25A7.152,7.152,0,0,0,5.107,30.25v7.143H2.25V30.25a10.011,10.011,0,0,1,10-10h8.571a10.011,10.011,0,0,1,10,10Z" transform="translate(0 4.857)" fill="#2d94c9" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+      <path id="Path_229" data-name="Path 229" d="M22.5,2.25V5.107a7.143,7.143,0,0,1,0,14.286V22.25a10,10,0,0,0,0-20Z" transform="translate(5.464)" fill="#2d94c9" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+      <path id="Path_230" data-name="Path 230" d="M15.625,5.107A7.143,7.143,0,1,1,8.482,12.25a7.143,7.143,0,0,1,7.143-7.143m0-2.857a10,10,0,1,0,10,10A10,10,0,0,0,15.625,2.25Z" transform="translate(0.911)" fill="#2d94c9" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
